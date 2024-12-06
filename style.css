@@ -331,6 +331,9 @@ h1,h2,h3,h4,h5,h6 {
 .brand-carousel .brand-item .brand-title {
   margin: 0;
 }
+#productListId:hover{
+ color: green;
+}
 
 /* product tabs */
 .product-tabs .nav-tabs {
@@ -479,6 +482,16 @@ input[type=number]::-webkit-outer-spin-button {
   }
 }
 
+
+#playstore{
+  background-image: url(images/downloadeBg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+#{
+ border: 1px solod green;
+}
 /* single product */
 /* product-thumbnail-slider */
 .product-thumbnail-slider {
